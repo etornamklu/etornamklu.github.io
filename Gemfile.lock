@@ -9,7 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.17.1)
+    ffi (1.17.1-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
@@ -68,12 +68,12 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 3.9.0)
-  jekyll-feed (~> 0.15.1)
-  jekyll-seo-tag (~> 2.7.0)
-  kramdown-parser-gfm (~> 1.1)
-  no-style-please (~> 0.4.7)
-  webrick (~> 1.9)
+  jekyll (= 3.9.5)
+  jekyll-feed (= 0.15.1)
+  jekyll-seo-tag (= 2.7.1)
+  kramdown-parser-gfm
+  no-style-please (= 0.4.7)
+  webrick
 
 BUNDLED WITH
    2.3.7
