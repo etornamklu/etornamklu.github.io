@@ -67,4 +67,4 @@ RUN rbenv install ${RUBY_VERSION} \
 # "Note: If you always want the latest 3.9.x version,"
 # "       use this line instead:"
 # "       RUN gem install jekyll -v '~>3.9'"
-RUN gem install jekyll -v '3.9.3'
+RUN gem install jekyll -v '3.10.0'
