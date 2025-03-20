@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Alfred Etornam Klu
 permalink: /about
 ---
 
@@ -11,7 +11,7 @@ You can find the source code for Minima at GitHub:
 [minima](https://github.com/jekyll/minima)
 
 You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
+[github](https://github.com/etornamklu) /
 [jekyll](https://github.com/jekyll/jekyll)
 
 
