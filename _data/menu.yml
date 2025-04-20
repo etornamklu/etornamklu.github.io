@@ -7,49 +7,49 @@ entries:
 
   - title: writings
     entries:
-      - title: cs
-        url: cs.html
-        post_list:
-          limit: 5
-          # category: cs
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: cs-archive.html
+      # - title: cs
+      #   url: cs.html
+      #   post_list:
+      #     limit: 5
+      #     category: cs
+      #     show_more: true
+      #     show_more_text: See more posts...
+      #     show_more_url: cs-archive.html
 
-      - title: money
-        url: money.html
-        post_list:
-          limit: 5
-          # category: finance
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: example2-archive.html
+      # - title: money
+      #   url: money.html
+      #   post_list:
+      #     limit: 5
+      #     # category: finance
+      #     show_more: true
+      #     show_more_text: See more posts...
+      #     show_more_url: example2-archive.html
 
       - title: life
         url: life.html
         post_list:
           limit: 5
-          # category: life
+          category:  life
           show_more: true
           show_more_text: See more posts...
           show_more_url: example2-archive.html
 
-      - title: maths
-        url: maths.html
-        post_list:
-          limit: 5
-          #category: maths
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: example2-archive.html
+      # - title: maths
+      #   url: maths.html
+      #   post_list:
+      #     limit: 5
+      #     #category: maths
+      #     show_more: true
+      #     show_more_text: See more posts...
+      #     show_more_url: example2-archive.html
       
        
-  # - title: recent writings
-  #   post_list:
-  #     limit: 5
-  #     show_more: true
-  #     show_more_text: See archive...
-  #     show_more_url: archive.html
+  - title: recent writings
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
   # - title: posts by category
   #   post_list:
