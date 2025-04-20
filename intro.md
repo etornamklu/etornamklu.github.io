@@ -14,4 +14,3 @@ I write to understand. I write to remember. And perhaps, in sharing my thoughts,
 
 This is my journey—an odyssey of becoming.
 
-jeykll
