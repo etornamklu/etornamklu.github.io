@@ -16,6 +16,8 @@ I’ve come to understand that relationships—real ones—aren’t built on one
 
 I thought I mattered. That belief made me open up, share my world, let someone in. And maybe that’s what hurt the most—realizing that love, no matter how honest or full-hearted, still needs a place to land. And when it doesn’t… you’re left holding something no one ever asked for.
 
+If at any point I pushed too hard or held on too tightly—I’m sorry. That was never my intention.
+
 But even in the pain, there’s clarity.
 
 This experience taught me something I’ll carry with me: love should never be begged for. And feeling deeply isn’t a weakness—it’s proof that I *can* love, fully and freely. That I *have* something worth offering. And one day, I hope to offer it to someone who meets me halfway.
