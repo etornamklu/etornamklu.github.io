@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "On Wanting and Letting Go"
 date:   2025-04-20
@@ -26,4 +26,4 @@ Maybe what’s hard isn’t just letting go—it’s facing the silence that fol
 
 This isn’t the end of anything.  
 It’s just another page in the story.  
-Still here. Still becoming.
+Still here. Still becoming. -->
