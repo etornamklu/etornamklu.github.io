@@ -7,14 +7,14 @@ entries:
 
   - title: writings
     entries:
-      # - title: cs
-      #   url: cs.html
-      #   post_list:
-      #     limit: 5
-      #     category: cs
-      #     show_more: true
-      #     show_more_text: See more posts...
-      #     show_more_url: cs-archive.html
+      - title: software engineering
+        url: se.html
+        post_list:
+          limit: 5
+          category: cs
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: cs-archive.html
 
       # - title: money
       #   url: money.html
