@@ -7,7 +7,7 @@ entries:
 
   - title: writings
     entries:
-      - title: software engineering
+      - title: software-engineering
         url: se.html
         post_list:
           limit: 5
