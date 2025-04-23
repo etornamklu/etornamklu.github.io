@@ -1,10 +1,11 @@
-<!-- ---
+---
 layout: post
 title:  "On Wanting and Letting Go"
 date:   2025-04-20
 category: life
 ---
-What do you do when you're caught between wanting someone so deeply—and wishing you could feel nothing at all for them?
+Let this be your reminder, *your actions have consequences*
+<!-- What do you do when you're caught between wanting someone so deeply—and wishing you could feel nothing at all for them?
 
 For a while, you were always on my mind. I wanted to talk to you, hear how your day went—to be someone you wanted to share your world with. But eventually, I had to admit something hard: I wanted that closeness to go both ways. I wanted to be asked about *my* day too. To be seen. And deep down, I knew that wasn’t going to happen. I knew you weren’t interested. Not really. But I still held on. I convinced myself that if I was persistent enough, patient enough, good enough—you’d finally see me.
 
