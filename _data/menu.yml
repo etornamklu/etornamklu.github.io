@@ -11,7 +11,7 @@ entries:
         url: se.html
         post_list:
           limit: 5
-          category: cs
+          category: software-engineering
           show_more: true
           show_more_text: See more posts...
           show_more_url: cs-archive.html
