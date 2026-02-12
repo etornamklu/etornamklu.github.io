@@ -36,7 +36,7 @@ Without SRP, a single class can end up doing too many things. This causes:
 
 ## Code Example
 
-### ❌ Bad — Violates SRP
+### Bad — Violates SRP
 
 The `Employee` class below does three completely different jobs:
 
@@ -67,7 +67,7 @@ class Employee {
 **The problem:** If management wants to change the seniority rules *or* use a new ID format, you must modify `Employee` — even though those changes have nothing to do with displaying employee details. Every change risks breaking something else.
 
 
-### ✅ Good — Follows SRP
+### Good — Follows SRP
 
 Split the three jobs into three separate classes:
 
