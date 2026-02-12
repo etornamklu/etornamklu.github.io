@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "Single Responsibility Principle (SRP)"
-date: 2026-02-08
+date: 2026-02-12
 categories: design-patterns
----
-
-> Part of the **SOLID** principles — a set of 5 guidelines for writing clean, maintainable code.
-
 ---
 
 ## Core Idea
@@ -17,7 +13,6 @@ In plain terms: each class should do *one thing* and own *one responsibility*. I
 
 > **Note:** SRP doesn't mean a class can only have *one method*. It means all the methods inside a class should serve the **same single purpose**.
 
----
 
 ## Real-World Analogy
 
@@ -28,7 +23,6 @@ Think of a restaurant kitchen. You wouldn't want your **chef** to also take orde
 
 Each staff member has **one clear job title**. SRP says your classes should work the same way.
 
----
 
 ## Why It Matters
 
@@ -39,7 +33,6 @@ Without SRP, a single class can end up doing too many things. This causes:
 - **Hard to maintain** — unrelated logic is tangled together
 - **Hard to reuse** — you can't reuse one part without dragging the rest along
 
----
 
 ## Code Example
 
@@ -73,7 +66,6 @@ class Employee {
 
 **The problem:** If management wants to change the seniority rules *or* use a new ID format, you must modify `Employee` — even though those changes have nothing to do with displaying employee details. Every change risks breaking something else.
 
----
 
 ### ✅ Good — Follows SRP
 
@@ -115,7 +107,6 @@ class SeniorityChecker {
 | `EmployeeIdGenerator` | The ID generation algorithm changes |
 | `SeniorityChecker` | The seniority criteria changes |
 
----
 
 ## Common Mistakes to Avoid
 
@@ -131,7 +122,6 @@ A catch-all `Utils` or `Helper` class that does everything is a common SRP viola
 **4. Letting a class grow over time without refactoring**
 Classes often start simple and gradually take on new responsibilities. Revisit your classes as requirements grow.
 
----
 
 ## Key Takeaway
 
