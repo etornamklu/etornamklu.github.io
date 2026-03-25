@@ -2,7 +2,7 @@
 layout: post
 title: "Single Responsibility Principle (SRP)"
 date: 2026-02-12
-categories: design-patterns
+categories: tech
 ---
 
 ## Core Idea
