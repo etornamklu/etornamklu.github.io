@@ -205,7 +205,7 @@ srv := &http.Server{
 }
 ```
 
-Each wrapper takes an `http.Handler` and returns one — the same interface, wrapping the next layer. Adding or removing a concern like rate limiting is a one-line change that touches nothing else. In the FastAPI version these were either absent or scattered through the route handlers.
+Each wrapper takes an `http.Handler` and returns one — the same interface, wrapping the next layer. Adding or removing a concern like rate limiting is a one-line change that touches nothing else. In the FastAPI version these were absent.
 
 ### RBAC at Multiple Layers
 
