@@ -9,7 +9,7 @@ Head First books were my first introduction to programming. Head First HTML came
 
 One thing they do that has always stuck with me is interview concepts as if they were people. Each concept gets a personality, a perspective, and occasionally some beef with the others. It makes abstract ideas feel like characters, which makes it much easier to remember when and why to use one over the other.
 
-The posts here are my attempt at that format.
+The posts here are my attempt at that format. The topics are not limited to programming — anything interesting enough to deserve a personality works.
 
 ---
 
