@@ -53,6 +53,10 @@ Ridges are the trap of almost-right paths. You can see where you need to go. The
 
 I don't think the algorithm is just describing search problems.
 
+When you are younger, especially in school, life often really does look like a clean hill. Follow the rules. Do well in primary school and you move to SHS. Do well in SHS and you move to university. The upward path is visible and socially reinforced. The next good step is usually obvious, and the system is structured to reward you for taking it.
+
+After school, that clarity disappears. The landscape stops being a staircase and starts becoming an actual search space. The next move is no longer guaranteed to be upward in any simple way. Sometimes the path to something better looks like a pay cut, a restart, a sideways move, or a period where nothing about your life looks more impressive from the outside.
+
 Think about a job that pays well and is comfortable enough, but is slowly becoming the wrong fit. Hill climbing says stay. Every measurable dimension of the next position is a step down: lower pay, less certainty, new skills to build, a longer commute. The rule says don't move unless the next step is better. So you don't move. You stay optimized for a position that is good by every local measure and wrong by every other one.
 
 Or think about a habit you've built over years. It serves you, mostly. It has a peak. You've found it. But somewhere in the part of the landscape you've never explored are better configurations you've never reached because your whole strategy has been to move locally and never step backward.
