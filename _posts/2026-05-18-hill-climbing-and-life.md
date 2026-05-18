@@ -2,7 +2,7 @@
 layout: post
 title: "Does Peak Imply Final Form?"
 date: 2026-05-18
-categories: everything-else
+categories: reflections
 ---
 
 Saturday, 8am. I should be cuddling but secof adey gnash i lef kpone come [Prof. Appati's](https://www.linkedin.com/in/prof-justice-kwame-appati-7a2738156/) Intelligent Systems class, trying to follow a lecture on iterative search algorithms. The first algorithm on the list is hill climbing. He explains it, shows the pseudocode, and moves on. I stay on one slide longer than everyone else. Not because the algorithm is complicated. Because I recognize something.
