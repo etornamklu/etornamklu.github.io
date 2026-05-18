@@ -12,7 +12,14 @@
 <header>
     <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
     <p>{{ site.description }}</p>
-
+    {% unless page.url == '/' %}
+    <div class="page-nav">
+        <button type="button" class="back-button" onclick="if (window.history.length > 1) { window.history.back(); } else { window.location.href='{{ '/' | relative_url }}'; }">
+            ← Back
+        </button>
+        <a href="{{ '/' | relative_url }}">Home</a>
+    </div>
+    {% endunless %}
 </header>
 
 <main>
