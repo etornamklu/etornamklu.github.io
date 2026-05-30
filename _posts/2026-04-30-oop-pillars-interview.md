@@ -2,7 +2,7 @@
 layout: post
 title: "Four Pillars of OOP."
 date: 2026-04-30
-categories: interviews
+categories: in-session
 ---
 
 *I sat down with Abstraction, Encapsulation, Inheritance, and Polymorphism to talk about one thing: how each of them contributed to building a `Car` object. They were all already seated when I arrived. Abstraction and Encapsulation were not making eye contact.*

@@ -2,7 +2,7 @@
 layout: post
 title: "Inheritance vs Composition: The Trial"
 date: 2026-04-30
-categories: interviews
+categories: in-session
 ---
 
 *Composition made a brief appearance in my [OOP pillars post](/interviews/2026/04/30/oop-pillars-interview.html), dropped one line, and walked out before Inheritance could respond. I thought that was unfair. So I gave them a proper room, a proper format, and told them both to make their case.*
