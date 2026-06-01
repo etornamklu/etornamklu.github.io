@@ -22,6 +22,7 @@ These are condensed notes on the core rules of differentiation. Each section cov
 
 **Exponential Functions:**
 - $\frac{d}{dx}[e^x] = e^x$ — the only function that is its own derivative.
+- $\frac{d}{dx}[e^{f(x)}] = e^{f(x)} \cdot f'(x)$.
 - $\frac{d}{dx}[a^x] = a^x \ln a$ for any positive constant $a \neq 1$.
 - $\frac{d}{dx}[a^{f(x)}] = a^{f(x)} \ln(a) \cdot f'(x)$ for any positive constant $a \neq 1$.
 

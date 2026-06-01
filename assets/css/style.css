@@ -84,3 +84,17 @@ pre {
     color: #666;
     font-size: 0.9em;
 }
+
+/* Math rendering */
+.katex-display {
+    background: #f4f4f4;
+    padding: 12px 16px;
+    border-radius: 3px;
+    overflow-x: auto;
+}
+
+.katex {
+    background: #f4f4f4;
+    padding: 1px 5px;
+    border-radius: 3px;
+}
